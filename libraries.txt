@@ -1,0 +1,9 @@
+ESP8266 Board Package
+Arduino IDE Serial Plotter
+
+Required Libraries:
+- ESP8266WiFi (built-in with ESP8266 board package)
+
+Hardware Modules:
+- AD8232 ECG Sensor Module
+- ESP8266 NodeMCU Development Board
