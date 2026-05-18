@@ -56,23 +56,23 @@ This project demonstrates biomedical signal acquisition, signal conditioning, an
 
 ### ECG Waveform
 
-![ECG Waveform](results/ECG_Waveforms/ECG_Waveform.png)
+![ECG Waveform](results/ECG%20Waveform.png)
 
 ### P Wave
 
-![P Wave](results/ECG_Waveforms/P_Wave.png)
+![P Wave](results/P%20Wave.png)
 
 ### Q Wave
 
-![Q Wave](results/ECG_Waveforms/Q_Wave.png)
+![Q Wave](results/Q%20Wave.png)
 
 ### R Wave
 
-![R Wave](results/ECG_Waveforms/R_Wave.png)
+![R Wave](results/R%20Wave.png)
 
 ### S Wave
 
-![S Wave](results/ECG_Waveforms/S_Wave.png)
+![S Wave](results/S%20Wave.png)
 
 ---
 
