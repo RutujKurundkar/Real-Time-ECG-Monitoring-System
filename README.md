@@ -127,6 +127,26 @@ Real-Time-ECG-Monitoring-System/
 
 ---
 
+## Challenges Faced
+
+- Motion noise affecting ECG waveform stability
+- Proper electrode placement for accurate signal acquisition
+- Signal fluctuations due to body movement
+- Power supply noise affecting waveform clarity
+- Analog signal sensitivity during real-time monitoring
+
+---
+
+## Limitations
+
+- Heart rate (BPM) calculation was not implemented
+- System is intended for educational purposes only
+- Not medically certified for clinical use
+- ECG signal quality is sensitive to body movement
+- Limited real-time filtering and noise reduction
+
+---
+
 ## Future Improvements
 - Algorithmic real-time Heart Rate (BPM) calculation via peak detection.
 - Wireless data transmission using ESP8266 WebSockets, Wi-Fi MQTT, or Bluetooth.
