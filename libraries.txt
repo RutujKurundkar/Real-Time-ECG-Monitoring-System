@@ -6,4 +6,4 @@ Required Libraries:
 
 Hardware Modules:
 - AD8232 ECG Sensor Module
-- ESP8266 NodeMCU Development Board
+- ESP8266 NodeMCU Development Board 
